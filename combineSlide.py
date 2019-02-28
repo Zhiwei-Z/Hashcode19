@@ -3,6 +3,7 @@ import numpy as np
 photo_to_tags = {}
 merged_photos = {}
 
+
 def read_merged_photos(file, merged_photos):
     with open(file) as fp:
         num_photo = int(fp.readline())
