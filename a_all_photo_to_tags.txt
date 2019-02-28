@@ -1,0 +1,4 @@
+3
+4 'garden' 'smile' 'selfie'
+0 'cat' 'sun' 'beach'
+3 'garden' 'cat'
